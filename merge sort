@@ -1,0 +1,6 @@
+import math
+import numpy as np 
+import pylab as py 
+%matplotlib inline
+
+""" PROBLEMA DE ORDENAMIENTO"""
